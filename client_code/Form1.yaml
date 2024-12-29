@@ -1,8 +1,0 @@
-components: []
-container:
-  properties: {html: '@theme:standard-page.html'}
-  type: HtmlTemplate
-custom_component: true
-custom_component_container: true
-is_package: false
-slots: {}

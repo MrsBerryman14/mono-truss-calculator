@@ -1,10 +1,10 @@
 unique_ids:
   assets:
+    images.jpg: '1735464830390352293907005.0406'
     standard-page.html: PA3EWJDLHRTB7CNGPN4AWOXYKUFZ4QWO
     theme.css: GQTP74BJQFS4OOVN7UPJUBFNDRUZ5HTY
   forms:
     Form1: '1735456336858933947126542.685'
-    Form2: '17354586794126697533709.326242'
   modules: {}
   scripts: {}
   server_modules:
