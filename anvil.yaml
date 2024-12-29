@@ -1,9 +1,16 @@
 allow_embedding: false
 name: Custom HTML 1
+native_deps: null
 package_name: Custom_HTML_1
 runtime_options:
   client_version: '3'
-  server_spec: {base: python310-minimal}
+  legacy_features: {__dict__: true, bootstrap3: true, class_names: true, root_container: true}
+  server_spec: {base: python310-standard}
   server_version: python3-sandbox
-  version: 2
-services: []
+  version: 3
+services:
+- client_config: {}
+  server_config: {}
+  source: /runtime/services/tables.yml
+startup: null
+startup_form: Form1
